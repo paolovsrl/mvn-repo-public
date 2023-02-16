@@ -1,7 +1,7 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "com.paolovsrl.lib",
+    "group": "com.android.lib",
     "module": "file-picker",
     "version": "1.0",
     "attributes": {
