@@ -1,7 +1,7 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "com.omsi.lib",
+    "group": "com.paolovsrl.lib",
     "module": "file-picker",
     "version": "1.0",
     "attributes": {
