@@ -1,0 +1,96 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.android.lib",
+    "module": "softap",
+    "version": "1.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.linkedin.dexmaker",
+          "module": "dexmaker",
+          "version": {
+            "requires": "2.28.3"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "softap-1.2.aar",
+          "url": "softap-1.2.aar",
+          "size": 7075,
+          "sha512": "879ec6ebb887d91558dc5b74a0d1d12444e00902ddbc556b51631366e918fc4508b38bbb9784974ceb747a7315f03d52fe588de71ce51e2293d16cd1621887a8",
+          "sha256": "2dfc1d97a79aaa5b006598397cd831f75f94f77f5da320d2de4d40ae46656dc8",
+          "sha1": "ac65f37dae5a3861606d1c57e42599cf64cbc16b",
+          "md5": "d18b4323261de37683f4fafe03f865d6"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.linkedin.dexmaker",
+          "module": "dexmaker",
+          "version": {
+            "requires": "2.28.3"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "softap-1.2.aar",
+          "url": "softap-1.2.aar",
+          "size": 7075,
+          "sha512": "879ec6ebb887d91558dc5b74a0d1d12444e00902ddbc556b51631366e918fc4508b38bbb9784974ceb747a7315f03d52fe588de71ce51e2293d16cd1621887a8",
+          "sha256": "2dfc1d97a79aaa5b006598397cd831f75f94f77f5da320d2de4d40ae46656dc8",
+          "sha1": "ac65f37dae5a3861606d1c57e42599cf64cbc16b",
+          "md5": "d18b4323261de37683f4fafe03f865d6"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "softap-1.2-javadoc.jar",
+          "url": "softap-1.2-javadoc.jar",
+          "size": 268347,
+          "sha512": "35aec57fadb1dafeceb994bb5d2c571ae66b9f35b06e65c073e217d590a5ff1b715709cc6b2f0e8a866f8998f1d9b93f908def1cd0504505b4a4acd1574e54d1",
+          "sha256": "e6809114bee866bd4bdd4fb772fd201ee7cc4fe2e398583ccee96640ba096877",
+          "sha1": "a5ffd6db6d3e8473990989b3ca8af267f3ebe502",
+          "md5": "98f375b0fc1bab3a27bbd1cc5d00fa7b"
+        }
+      ]
+    }
+  ]
+}
