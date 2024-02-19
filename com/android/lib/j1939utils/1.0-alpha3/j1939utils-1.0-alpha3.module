@@ -3,7 +3,7 @@
   "component": {
     "group": "com.android.lib",
     "module": "j1939utils",
-    "version": "1.0-alpha2",
+    "version": "1.0-alpha3",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -33,13 +33,13 @@
       ],
       "files": [
         {
-          "name": "j1939utils-1.0-alpha2.aar",
-          "url": "j1939utils-1.0-alpha2.aar",
-          "size": 79310,
-          "sha512": "f90c262baf690d1531b46ce7572217bdb72da18ec716bc608a2c05a9219124c80bc3144200b1a84885af75d7f3eddc8889c0013ddbdefbd274ab36f09e16bdc7",
-          "sha256": "21bc2c6b7252e4642bbb363166031441bc78cbcd9653b18f03a4aa290616e4ac",
-          "sha1": "fdb523f32477a361c8cad395b681015a6fe775c3",
-          "md5": "cb49051db723a393e6160f1de3a9e312"
+          "name": "j1939utils-1.0-alpha3.aar",
+          "url": "j1939utils-1.0-alpha3.aar",
+          "size": 82016,
+          "sha512": "ffb37780c47cd19af4e02815420e727af5da4213bd0c3bf7fcfd26b2e4eecbcbc0fc55d9befc81368deb54fdf2f1e026d7b2ff5f1ca3dfde559a33d50f5a1ae1",
+          "sha256": "6c1673786353e23819b3dc8c9220f0c7b92aedb93d2e143e0d9398e1d37a233b",
+          "sha1": "d90fcf6c1135e7e2b7031b9d63a1974278901cc7",
+          "md5": "021dcd2cc9b631bfacf567175ac04ae7"
         }
       ]
     },
@@ -97,13 +97,13 @@
       ],
       "files": [
         {
-          "name": "j1939utils-1.0-alpha2.aar",
-          "url": "j1939utils-1.0-alpha2.aar",
-          "size": 79310,
-          "sha512": "f90c262baf690d1531b46ce7572217bdb72da18ec716bc608a2c05a9219124c80bc3144200b1a84885af75d7f3eddc8889c0013ddbdefbd274ab36f09e16bdc7",
-          "sha256": "21bc2c6b7252e4642bbb363166031441bc78cbcd9653b18f03a4aa290616e4ac",
-          "sha1": "fdb523f32477a361c8cad395b681015a6fe775c3",
-          "md5": "cb49051db723a393e6160f1de3a9e312"
+          "name": "j1939utils-1.0-alpha3.aar",
+          "url": "j1939utils-1.0-alpha3.aar",
+          "size": 82016,
+          "sha512": "ffb37780c47cd19af4e02815420e727af5da4213bd0c3bf7fcfd26b2e4eecbcbc0fc55d9befc81368deb54fdf2f1e026d7b2ff5f1ca3dfde559a33d50f5a1ae1",
+          "sha256": "6c1673786353e23819b3dc8c9220f0c7b92aedb93d2e143e0d9398e1d37a233b",
+          "sha1": "d90fcf6c1135e7e2b7031b9d63a1974278901cc7",
+          "md5": "021dcd2cc9b631bfacf567175ac04ae7"
         }
       ]
     }
