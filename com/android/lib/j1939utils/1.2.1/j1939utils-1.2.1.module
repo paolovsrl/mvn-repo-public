@@ -35,11 +35,11 @@
         {
           "name": "j1939utils-1.2.1.aar",
           "url": "j1939utils-1.2.1.aar",
-          "size": 66960,
-          "sha512": "d2e4836be787d55fa6401ec0fea8d69a164f704e45ae420e44289da6e50e2c7310e8b2ba313a28b766c8c04f1b7436016540638ec8b255f191fdbf02e52afffd",
-          "sha256": "10ce4c927de5e7749abae9497c656b6f0c21c7050833ddf79dba1d4985dcf87b",
-          "sha1": "742ada28e8def79d51f8e42c146a59fc6448aec5",
-          "md5": "04e31cc6b53c9695e4aa6c091b0493be"
+          "size": 66955,
+          "sha512": "4b45c000e04fcf13fb04853123d57beabafee4ad93f8c0c3ca6b35d04d9590bb428ab05af8968a7e0550a79bd5dcb4ced2999a6062f5efbdf54e889f271b67b8",
+          "sha256": "c3fdcaea96a0121ebfb37368d427c4b0c2dff3c293e9efce8459c5283b65d9ec",
+          "sha1": "336eb1f4315cbccc646c59e301a839dd80fa9f21",
+          "md5": "072271aeec85a711d463d8030f9c6091"
         }
       ]
     },
@@ -99,11 +99,31 @@
         {
           "name": "j1939utils-1.2.1.aar",
           "url": "j1939utils-1.2.1.aar",
-          "size": 66960,
-          "sha512": "d2e4836be787d55fa6401ec0fea8d69a164f704e45ae420e44289da6e50e2c7310e8b2ba313a28b766c8c04f1b7436016540638ec8b255f191fdbf02e52afffd",
-          "sha256": "10ce4c927de5e7749abae9497c656b6f0c21c7050833ddf79dba1d4985dcf87b",
-          "sha1": "742ada28e8def79d51f8e42c146a59fc6448aec5",
-          "md5": "04e31cc6b53c9695e4aa6c091b0493be"
+          "size": 66955,
+          "sha512": "4b45c000e04fcf13fb04853123d57beabafee4ad93f8c0c3ca6b35d04d9590bb428ab05af8968a7e0550a79bd5dcb4ced2999a6062f5efbdf54e889f271b67b8",
+          "sha256": "c3fdcaea96a0121ebfb37368d427c4b0c2dff3c293e9efce8459c5283b65d9ec",
+          "sha1": "336eb1f4315cbccc646c59e301a839dd80fa9f21",
+          "md5": "072271aeec85a711d463d8030f9c6091"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "j1939utils-1.2.1-javadoc.jar",
+          "url": "j1939utils-1.2.1-javadoc.jar",
+          "size": 340600,
+          "sha512": "420d9bcd834c47a772d4a35759698637cdde19a39d4c6b632b201d1642aa786e36836392094ffaca870ea4f05f8595c85dfd93934da2d7b5bec7c062c0447ecd",
+          "sha256": "4d8fa68f5a246d6fe4ef8f20955d84c7475ca929474c63271ce4378f94fd9549",
+          "sha1": "28bdd86e756e94ea40afd359a3f8a234e29998ae",
+          "md5": "764965d8d0d31281f6a9397d161d3bd9"
         }
       ]
     }
