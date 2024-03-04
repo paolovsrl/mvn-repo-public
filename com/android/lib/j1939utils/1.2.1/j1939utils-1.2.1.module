@@ -1,0 +1,111 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.android.lib",
+    "module": "j1939utils",
+    "version": "1.2.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.9.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "j1939utils-1.2.1.aar",
+          "url": "j1939utils-1.2.1.aar",
+          "size": 66960,
+          "sha512": "d2e4836be787d55fa6401ec0fea8d69a164f704e45ae420e44289da6e50e2c7310e8b2ba313a28b766c8c04f1b7436016540638ec8b255f191fdbf02e52afffd",
+          "sha256": "10ce4c927de5e7749abae9497c656b6f0c21c7050833ddf79dba1d4985dcf87b",
+          "sha1": "742ada28e8def79d51f8e42c146a59fc6448aec5",
+          "md5": "04e31cc6b53c9695e4aa6c091b0493be"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.core",
+          "module": "core-ktx",
+          "version": {
+            "requires": "1.12.0"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.6.1"
+          }
+        },
+        {
+          "group": "com.google.android.material",
+          "module": "material",
+          "version": {
+            "requires": "1.11.0"
+          }
+        },
+        {
+          "group": "androidx.room",
+          "module": "room-runtime",
+          "version": {
+            "requires": "2.6.1"
+          }
+        },
+        {
+          "group": "androidx.room",
+          "module": "room-ktx",
+          "version": {
+            "requires": "2.6.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.9.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "j1939utils-1.2.1.aar",
+          "url": "j1939utils-1.2.1.aar",
+          "size": 66960,
+          "sha512": "d2e4836be787d55fa6401ec0fea8d69a164f704e45ae420e44289da6e50e2c7310e8b2ba313a28b766c8c04f1b7436016540638ec8b255f191fdbf02e52afffd",
+          "sha256": "10ce4c927de5e7749abae9497c656b6f0c21c7050833ddf79dba1d4985dcf87b",
+          "sha1": "742ada28e8def79d51f8e42c146a59fc6448aec5",
+          "md5": "04e31cc6b53c9695e4aa6c091b0493be"
+        }
+      ]
+    }
+  ]
+}
