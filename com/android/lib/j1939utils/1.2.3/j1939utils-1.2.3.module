@@ -3,7 +3,7 @@
   "component": {
     "group": "com.android.lib",
     "module": "j1939utils",
-    "version": "1.2.2",
+    "version": "1.2.3",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -33,13 +33,13 @@
       ],
       "files": [
         {
-          "name": "j1939utils-1.2.2.aar",
-          "url": "j1939utils-1.2.2.aar",
-          "size": 21726,
-          "sha512": "83c18c0ead730d20095957e4f586cc4f33fb95d51f8fe4e0d955526810a2bb0ace462d08aad695fba81f09e5a7d2abb1eec6717a3713994c16532452b2eb876b",
-          "sha256": "929eaf4fae65c6f1d6919c39f514a80cc0c0450c1881c1ac88c3cb0a3c6fa0a2",
-          "sha1": "dd1cbd6ad54a7b43846854c1ad1e26037cad0830",
-          "md5": "b4ce2e2929fd16677e452e6e129d73ba"
+          "name": "j1939utils-1.2.3.aar",
+          "url": "j1939utils-1.2.3.aar",
+          "size": 62006,
+          "sha512": "c87b34c3d0918c02353a5581b13c397df7ee67cd835ea53608b3d9a7dac75c66df5b8e3a4ffe86f7500f7d927dd9f5c3f294d3dc78a1ed3882f37205e8686631",
+          "sha256": "7b546280ea01e739253b8b1b28e355b89e6d8eb4e196167989aa3dff0630b51c",
+          "sha1": "17139938f2f28f7070e81e5e698dc71da3fb09ff",
+          "md5": "4341edc20aa0da4150181c71661d4e54"
         }
       ]
     },
@@ -97,13 +97,13 @@
       ],
       "files": [
         {
-          "name": "j1939utils-1.2.2.aar",
-          "url": "j1939utils-1.2.2.aar",
-          "size": 21726,
-          "sha512": "83c18c0ead730d20095957e4f586cc4f33fb95d51f8fe4e0d955526810a2bb0ace462d08aad695fba81f09e5a7d2abb1eec6717a3713994c16532452b2eb876b",
-          "sha256": "929eaf4fae65c6f1d6919c39f514a80cc0c0450c1881c1ac88c3cb0a3c6fa0a2",
-          "sha1": "dd1cbd6ad54a7b43846854c1ad1e26037cad0830",
-          "md5": "b4ce2e2929fd16677e452e6e129d73ba"
+          "name": "j1939utils-1.2.3.aar",
+          "url": "j1939utils-1.2.3.aar",
+          "size": 62006,
+          "sha512": "c87b34c3d0918c02353a5581b13c397df7ee67cd835ea53608b3d9a7dac75c66df5b8e3a4ffe86f7500f7d927dd9f5c3f294d3dc78a1ed3882f37205e8686631",
+          "sha256": "7b546280ea01e739253b8b1b28e355b89e6d8eb4e196167989aa3dff0630b51c",
+          "sha1": "17139938f2f28f7070e81e5e698dc71da3fb09ff",
+          "md5": "4341edc20aa0da4150181c71661d4e54"
         }
       ]
     },
@@ -117,8 +117,8 @@
       },
       "files": [
         {
-          "name": "j1939utils-1.2.2-javadoc.jar",
-          "url": "j1939utils-1.2.2-javadoc.jar",
+          "name": "j1939utils-1.2.3-javadoc.jar",
+          "url": "j1939utils-1.2.3-javadoc.jar",
           "size": 340608,
           "sha512": "d1f41b60fb8bdc20383835b24ddce849f06a539ca9289f72c8d77ccf54eeba195ab765af97a6dccd6a3711d1011b88fe88ce1e88328215651810387fd1a53202",
           "sha256": "ecbee8ebb4862c0a949f3896680ee88029a46145fb7c4afbe28e6c68a7c002e5",
