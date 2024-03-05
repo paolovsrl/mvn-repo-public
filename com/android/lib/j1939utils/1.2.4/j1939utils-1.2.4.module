@@ -1,0 +1,131 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.android.lib",
+    "module": "j1939utils",
+    "version": "1.2.4",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.9.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "j1939utils-1.2.4.aar",
+          "url": "j1939utils-1.2.4.aar",
+          "size": 62217,
+          "sha512": "4af235a95618da70fe19698a30000c10f97bbdbb1c24e3e8f26dec546df737b8d16619a6d90584bec36c95dd147a11187d99ffd87b93dfe39a2231997589692d",
+          "sha256": "fa5655fa87a4cd557a4799d4236bcfa3d195ad26dc67224e22deecdf3d2e4fa9",
+          "sha1": "8e10fbabc21e56ee48c9b12eccb7d6c15ccb0809",
+          "md5": "3445d5e91209ced58712ffd842f32af2"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.core",
+          "module": "core-ktx",
+          "version": {
+            "requires": "1.12.0"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.6.1"
+          }
+        },
+        {
+          "group": "com.google.android.material",
+          "module": "material",
+          "version": {
+            "requires": "1.11.0"
+          }
+        },
+        {
+          "group": "androidx.room",
+          "module": "room-runtime",
+          "version": {
+            "requires": "2.6.1"
+          }
+        },
+        {
+          "group": "androidx.room",
+          "module": "room-ktx",
+          "version": {
+            "requires": "2.6.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.9.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "j1939utils-1.2.4.aar",
+          "url": "j1939utils-1.2.4.aar",
+          "size": 62217,
+          "sha512": "4af235a95618da70fe19698a30000c10f97bbdbb1c24e3e8f26dec546df737b8d16619a6d90584bec36c95dd147a11187d99ffd87b93dfe39a2231997589692d",
+          "sha256": "fa5655fa87a4cd557a4799d4236bcfa3d195ad26dc67224e22deecdf3d2e4fa9",
+          "sha1": "8e10fbabc21e56ee48c9b12eccb7d6c15ccb0809",
+          "md5": "3445d5e91209ced58712ffd842f32af2"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "j1939utils-1.2.4-javadoc.jar",
+          "url": "j1939utils-1.2.4-javadoc.jar",
+          "size": 338559,
+          "sha512": "0248364833425358bc0791a19826fe5a90a24e468ae39bfb32bd71f31cbba3390272999f13c617a634453048a3b8025f3987579d3a05d9e5c7db080091d8df5f",
+          "sha256": "bb942ab55f2152539833da39eea119d9013bad8b53751cab42b0e31a1b0ba20e",
+          "sha1": "4ef56a522ce80d0fe2eb3a059010c90d2fd10995",
+          "md5": "f0d9b6f741b3e0334d6719f14f12979c"
+        }
+      ]
+    }
+  ]
+}

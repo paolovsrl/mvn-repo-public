@@ -3,8 +3,8 @@
   <groupId>com.android.lib</groupId>
   <artifactId>j1939utils</artifactId>
   <versioning>
-    <latest>1.2.3</latest>
-    <release>1.2.3</release>
+    <latest>1.2.4</latest>
+    <release>1.2.4</release>
     <versions>
       <version>1.0-alpha</version>
       <version>1.0-alpha1</version>
@@ -21,7 +21,8 @@
       <version>1.2.1</version>
       <version>1.2.2</version>
       <version>1.2.3</version>
+      <version>1.2.4</version>
     </versions>
-    <lastUpdated>20240304142536</lastUpdated>
+    <lastUpdated>20240305111231</lastUpdated>
   </versioning>
 </metadata>
