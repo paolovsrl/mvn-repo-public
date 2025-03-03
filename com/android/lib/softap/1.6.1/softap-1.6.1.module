@@ -3,7 +3,7 @@
   "component": {
     "group": "com.android.lib",
     "module": "softap",
-    "version": "1.6",
+    "version": "1.6.1",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -33,8 +33,8 @@
       ],
       "files": [
         {
-          "name": "softap-1.6.aar",
-          "url": "softap-1.6.aar",
+          "name": "softap-1.6.1.aar",
+          "url": "softap-1.6.1.aar",
           "size": 12142,
           "sha512": "e17b645600e1287ba519b61eb1326e417ce71ca8c82b359182b3e846eafc1443d1057961e6ee8a7ec14842ea0588140e19f98ee5d428e1711b5262de40608b79",
           "sha256": "b1746ec34a0e00643fbaf7569b1ef944d5fdd7c9c46bfbc8925b22f0df30bfc9",
@@ -69,8 +69,8 @@
       ],
       "files": [
         {
-          "name": "softap-1.6.aar",
-          "url": "softap-1.6.aar",
+          "name": "softap-1.6.1.aar",
+          "url": "softap-1.6.1.aar",
           "size": 12142,
           "sha512": "e17b645600e1287ba519b61eb1326e417ce71ca8c82b359182b3e846eafc1443d1057961e6ee8a7ec14842ea0588140e19f98ee5d428e1711b5262de40608b79",
           "sha256": "b1746ec34a0e00643fbaf7569b1ef944d5fdd7c9c46bfbc8925b22f0df30bfc9",
@@ -89,8 +89,8 @@
       },
       "files": [
         {
-          "name": "softap-1.6-javadoc.jar",
-          "url": "softap-1.6-javadoc.jar",
+          "name": "softap-1.6.1-javadoc.jar",
+          "url": "softap-1.6.1-javadoc.jar",
           "size": 276544,
           "sha512": "b8898f3328d8c4f62573b0ce3d2dee18becaf93e8be315398f6e9c6e407c48dc047c58894f2959d855e34790f9d24111c0f57d7f1ac24504d37a15d4815c304d",
           "sha256": "73ae2ee4f80172944841d23b89f0ee0fc38fe872da32848a3c67949375d0ca9e",
