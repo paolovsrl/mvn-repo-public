@@ -1,0 +1,117 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.android.lib",
+    "module": "custom-wav-player",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.11.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.9.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "custom-wav-player-1.0.0.aar",
+          "url": "custom-wav-player-1.0.0.aar",
+          "size": 1419759,
+          "sha512": "5231ab264d1727a59f9484d7a524f3d8d766e1dad81d0c660746b79828ca67068dc9eee32834f6c66a704d689be6973d00a55eaee80365ced7610e758e7b9b53",
+          "sha256": "cdd43723e9b74a63231d5e54d36d13704108473ba16a3a577f087885c7a26cb2",
+          "sha1": "f37d5b873c830472ad89e3979bbf6ca53db7fd5d",
+          "md5": "c68cf207baf916e75ddb8647da21b029"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimeElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.core",
+          "module": "core-ktx",
+          "version": {
+            "requires": "1.16.0"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.7.1"
+          }
+        },
+        {
+          "group": "com.google.android.material",
+          "module": "material",
+          "version": {
+            "requires": "1.12.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.9.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "custom-wav-player-1.0.0.aar",
+          "url": "custom-wav-player-1.0.0.aar",
+          "size": 1419759,
+          "sha512": "5231ab264d1727a59f9484d7a524f3d8d766e1dad81d0c660746b79828ca67068dc9eee32834f6c66a704d689be6973d00a55eaee80365ced7610e758e7b9b53",
+          "sha256": "cdd43723e9b74a63231d5e54d36d13704108473ba16a3a577f087885c7a26cb2",
+          "sha1": "f37d5b873c830472ad89e3979bbf6ca53db7fd5d",
+          "md5": "c68cf207baf916e75ddb8647da21b029"
+        }
+      ]
+    },
+    {
+      "name": "releaseSourcesElements-published",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
+      },
+      "files": [
+        {
+          "name": "custom-wav-player-1.0.0-sources.jar",
+          "url": "custom-wav-player-1.0.0-sources.jar",
+          "size": 2465,
+          "sha512": "04cfd0af81249d1a675efeb94e908bb5dd9d806ef489ea07fd5cd51390fc0275d61f5ca17d02f1a89c16b857142be5cd8d1b3aef3175d3096c3b2280b5f9468b",
+          "sha256": "517958b93e1fbdbfddfd8d159e9e932b10d07fded08a1eda042b83d9584e90a0",
+          "sha1": "6db0b507e4ac8317d6c71e017291c2f8a2caa87c",
+          "md5": "950c2cc1a43303b5a79b40c86910585e"
+        }
+      ]
+    }
+  ]
+}
